@@ -59,3 +59,6 @@ gem 'bootstrap-sass', '~> 3.3.6'
 
 # Add simple form for forms
 gem 'simple_form'
+
+# Add devise for authentication
+gem 'devise'
