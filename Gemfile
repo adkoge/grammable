@@ -54,4 +54,8 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.0'
 end
 
+# Add bootstrap for styling
 gem 'bootstrap-sass', '~> 3.3.6'
+
+# Add simple form for forms
+gem 'simple_form'
